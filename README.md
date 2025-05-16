@@ -12,3 +12,6 @@
 ・これから挑戦したいこと
 ・各種SNSについて
 
+ファイル一覧
+・self_introduction.html
+・self_introduction.css
